@@ -40,7 +40,7 @@ class Tadmin_news extends templates {
             $tmp = $this->rtemp("news.listing");
             $html = "";
             while($ht=$db->fetch()) {
-                $ht['news_edit_link'] = _URL_."/admin/news/action=edit&r=".$ht['news_key'];
+                $ht['news_edit_link'] = _URL_."/admin/news/?action=edit&r=".$ht['news_key'];
                 $ht['news_id'] = md5("trnews".$ht['news_key']);
                 $ht['news_delete_link'] = "fast_delete('admin/news/delete',".$ht['news_key'].",'".$ht['news_id']."');";
                 $html .= $this->rvar($tmp,$ht);
