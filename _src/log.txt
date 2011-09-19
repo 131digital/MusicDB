@@ -1,0 +1,371 @@
+13-09-2011 09:04:18 --> ERROR 404 :: NO PAGE
+:: IP: 98.154.206.193 :: REFEFER: NO REFERER
+:: AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1 
+:: PHP_SELF: /dkphp.php  
+:: URI: /exter 
+:: QUERY STRING 
+
+13-09-2011 09:04:19 --> Hacking System :: NO HTTP REFERER ON AJAX
+:: IP: 98.154.206.193 :: REFEFER: NO REFERER
+:: AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1 
+:: PHP_SELF: /dkphp.php  
+:: URI: /external 
+:: QUERY STRING 
+
+13-09-2011 09:04:19 --> Hacking System :: NO HTTP REFERER ON AJAX
+:: IP: 98.154.206.193 :: REFEFER: NO REFERER
+:: AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1 
+:: PHP_SELF: /dkphp.php  
+:: URI: /external/ 
+:: QUERY STRING 
+
+13-09-2011 09:04:20 --> Hacking System :: NO HTTP REFERER ON AJAX
+:: IP: 98.154.206.193 :: REFEFER: NO REFERER
+:: AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1 
+:: PHP_SELF: /dkphp.php  
+:: URI: /external/song 
+:: QUERY STRING 
+
+13-09-2011 09:04:21 --> Hacking System :: NO HTTP REFERER ON AJAX
+:: IP: 98.154.206.193 :: REFEFER: NO REFERER
+:: AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1 
+:: PHP_SELF: /dkphp.php  
+:: URI: /external/songs 
+:: QUERY STRING 
+
+13-09-2011 09:04:22 --> Hacking System :: NO HTTP REFERER ON AJAX
+:: IP: 98.154.206.193 :: REFEFER: NO REFERER
+:: AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1 
+:: PHP_SELF: /dkphp.php  
+:: URI: /external/songs/ 
+:: QUERY STRING 
+
+13-09-2011 09:04:24 --> Hacking System :: NO HTTP REFERER ON AJAX
+:: IP: 98.154.206.193 :: REFEFER: NO REFERER
+:: AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1 
+:: PHP_SELF: /dkphp.php  
+:: URI: /external/songs/? 
+:: QUERY STRING 
+
+13-09-2011 09:04:25 --> Hacking System :: NO HTTP REFERER ON AJAX
+:: IP: 98.154.206.193 :: REFEFER: NO REFERER
+:: AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1 
+:: PHP_SELF: /dkphp.php  
+:: URI: /external/songs/?a 
+:: QUERY STRING a
+
+13-09-2011 09:04:25 --> Hacking System :: NO HTTP REFERER ON AJAX
+:: IP: 98.154.206.193 :: REFEFER: NO REFERER
+:: AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1 
+:: PHP_SELF: /dkphp.php  
+:: URI: /external/songs/? 
+:: QUERY STRING 
+
+13-09-2011 09:04:26 --> Hacking System :: NO HTTP REFERER ON AJAX
+:: IP: 98.154.206.193 :: REFEFER: NO REFERER
+:: AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1 
+:: PHP_SELF: /dkphp.php  
+:: URI: /external/songs/?name 
+:: QUERY STRING name
+
+13-09-2011 09:04:27 --> Hacking System :: NO HTTP REFERER ON AJAX
+:: IP: 98.154.206.193 :: REFEFER: NO REFERER
+:: AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1 
+:: PHP_SELF: /dkphp.php  
+:: URI: /external/songs/?name= 
+:: QUERY STRING name=
+
+13-09-2011 09:04:27 --> Hacking System :: NO HTTP REFERER ON AJAX
+:: IP: 98.154.206.193 :: REFEFER: NO REFERER
+:: AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1 
+:: PHP_SELF: /dkphp.php  
+:: URI: /external/songs/?name=chri 
+:: QUERY STRING name=chri
+
+13-09-2011 09:04:28 --> Hacking System :: NO HTTP REFERER ON AJAX
+:: IP: 98.154.206.193 :: REFEFER: NO REFERER
+:: AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1 
+:: PHP_SELF: /dkphp.php  
+:: URI: /external/songs/?name=christ 
+:: QUERY STRING name=christ
+
+13-09-2011 09:04:29 --> Hacking System :: NO HTTP REFERER ON AJAX
+:: IP: 98.154.206.193 :: REFEFER: NO REFERER
+:: AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1 
+:: PHP_SELF: /dkphp.php  
+:: URI: /external/songs/?name=chris 
+:: QUERY STRING name=chris
+
+13-09-2011 09:04:31 --> Hacking System :: NO HTTP REFERER ON AJAX
+:: IP: 98.154.206.193 :: REFEFER: NO REFERER
+:: AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1 
+:: PHP_SELF: /dkphp.php  
+:: URI: /external/songs/?name=chris 
+:: QUERY STRING name=chris
+
+13-09-2011 09:04:31 --> Hacking System :: NO HTTP REFERER ON AJAX
+:: IP: 98.154.206.193 :: REFEFER: NO REFERER
+:: AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1 
+:: PHP_SELF: /dkphp.php  
+:: URI: /external/songs/?name=chris 
+:: QUERY STRING name=chris
+
+13-09-2011 09:04:32 --> Hacking System :: NO HTTP REFERER ON AJAX
+:: IP: 98.154.206.193 :: REFEFER: NO REFERER
+:: AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1 
+:: PHP_SELF: /dkphp.php  
+:: URI: /external/songs/?name=chris 
+:: QUERY STRING name=chris
+
+13-09-2011 09:04:32 --> Hacking System :: NO HTTP REFERER ON AJAX
+:: IP: 98.154.206.193 :: REFEFER: NO REFERER
+:: AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1 
+:: PHP_SELF: /dkphp.php  
+:: URI: /external/songs/?name=chris 
+:: QUERY STRING name=chris
+
+13-09-2011 16:29:48 --> ERROR 404 :: NO PAGE
+:: IP: 87.230.74.46 :: REFEFER: NO REFERER
+:: AGENT:  
+:: PHP_SELF: /dkphp.php  
+:: URI: /din.aspx?s=00000000&id=0&client=DynGate&p=10000001 
+:: QUERY STRING s=00000000&id=0&client=DynGate&p=10000001
+
+14-09-2011 00:39:46 --> ERROR 404 :: NO PAGE
+:: IP: 66.249.72.120 :: REFEFER: NO REFERER
+:: AGENT: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) 
+:: PHP_SELF: /dkphp.php  
+:: URI: /tabmanager/ajax.generator.php?from=269506&what=all 
+:: QUERY STRING from=269506&what=all
+
+14-09-2011 02:40:55 --> ERROR 404 :: NO PAGE
+:: IP: 69.171.229.248 :: REFEFER: NO REFERER
+:: AGENT: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) 
+:: PHP_SELF: /dkphp.php  
+:: URI: /hostsellers/lyrics/192-take-my-life-jeremy-camp 
+:: QUERY STRING 
+
+14-09-2011 02:40:55 --> ERROR 404 :: NO PAGE
+:: IP: 69.171.229.247 :: REFEFER: NO REFERER
+:: AGENT: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) 
+:: PHP_SELF: /dkphp.php  
+:: URI: /hostsellers/lyrics/100-ngay-hanh-phuc-bang-cuong 
+:: QUERY STRING 
+
+14-09-2011 03:08:05 --> ERROR 404 :: NO PAGE
+:: IP: 87.230.74.46 :: REFEFER: NO REFERER
+:: AGENT:  
+:: PHP_SELF: /dkphp.php  
+:: URI: /din.aspx?s=00000000&id=0&client=DynGate&p=10000001 
+:: QUERY STRING s=00000000&id=0&client=DynGate&p=10000001
+
+14-09-2011 06:49:11 --> ERROR 404 :: NO PAGE
+:: IP: 87.230.74.46 :: REFEFER: NO REFERER
+:: AGENT:  
+:: PHP_SELF: /dkphp.php  
+:: URI: /din.aspx?s=00000000&id=0&client=DynGate&p=10000001 
+:: QUERY STRING s=00000000&id=0&client=DynGate&p=10000001
+
+14-09-2011 10:59:19 --> ERROR 404 :: NO PAGE
+:: IP: 178.77.120.2 :: REFEFER: NO REFERER
+:: AGENT:  
+:: PHP_SELF: /dkphp.php  
+:: URI: /din.aspx?s=00000000&id=0&client=DynGate&p=10000001 
+:: QUERY STRING s=00000000&id=0&client=DynGate&p=10000001
+
+14-09-2011 10:59:20 --> ERROR 404 :: NO PAGE
+:: IP: 87.230.74.46 :: REFEFER: NO REFERER
+:: AGENT:  
+:: PHP_SELF: /dkphp.php  
+:: URI: /din.aspx?s=00000000&id=0&client=DynGate&p=10000001 
+:: QUERY STRING s=00000000&id=0&client=DynGate&p=10000001
+
+14-09-2011 11:16:49 --> ERROR 404 :: NO PAGE
+:: IP: 178.77.120.2 :: REFEFER: NO REFERER
+:: AGENT:  
+:: PHP_SELF: /dkphp.php  
+:: URI: /din.aspx?s=00000000&id=0&client=DynGate&p=10000001 
+:: QUERY STRING s=00000000&id=0&client=DynGate&p=10000001
+
+14-09-2011 19:18:19 --> SQL ERROR :: INSERT INTO msc_songs_lyrics (  `song_key`  ) VALUES (  '10245'  )  -- Duplicate entry '10245' for key 'PRIMARY'
+:: IP: 180.76.5.183 :: REFEFER: NO REFERER
+:: AGENT: Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html) 
+:: PHP_SELF: /dkphp.php  
+:: URI: /artist/9-Phillips,%20craig%20And%20Dean.html/page=3 
+:: QUERY STRING 
+
+14-09-2011 19:18:19 --> SQL ERROR :: INSERT INTO msc_songs_lyrics (  `song_key`  ) VALUES (  '10245'  )  -- Duplicate entry '10245' for key 'PRIMARY'
+:: IP: 180.76.5.183 :: REFEFER: NO REFERER
+:: AGENT: Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html) 
+:: PHP_SELF: /dkphp.php  
+:: URI: /artist/9-Phillips,%20craig%20And%20Dean.html/page=3 
+:: QUERY STRING 
+
+14-09-2011 19:38:21 --> ERROR 404 :: NO PAGE
+:: IP: 178.77.120.2 :: REFEFER: NO REFERER
+:: AGENT:  
+:: PHP_SELF: /dkphp.php  
+:: URI: /din.aspx?s=00000000&id=0&client=DynGate&p=10000001 
+:: QUERY STRING s=00000000&id=0&client=DynGate&p=10000001
+
+14-09-2011 20:02:16 --> ERROR 404 :: NO PAGE
+:: IP: 178.77.120.2 :: REFEFER: NO REFERER
+:: AGENT:  
+:: PHP_SELF: /dkphp.php  
+:: URI: /din.aspx?s=00000000&id=0&client=DynGate&p=10000001 
+:: QUERY STRING s=00000000&id=0&client=DynGate&p=10000001
+
+15-09-2011 12:42:18 --> ERROR 404 :: NO PAGE
+:: IP: 87.230.74.47 :: REFEFER: NO REFERER
+:: AGENT:  
+:: PHP_SELF: /dkphp.php  
+:: URI: /din.aspx?s=00000000&id=0&client=DynGate&p=10000001 
+:: QUERY STRING s=00000000&id=0&client=DynGate&p=10000001
+
+15-09-2011 16:31:56 --> ERROR 404 :: NO PAGE
+:: IP: 87.230.74.47 :: REFEFER: NO REFERER
+:: AGENT:  
+:: PHP_SELF: /dkphp.php  
+:: URI: /din.aspx?s=00000000&id=0&client=DynGate&p=10000001 
+:: QUERY STRING s=00000000&id=0&client=DynGate&p=10000001
+
+15-09-2011 21:40:34 --> ERROR 404 :: NO PAGE
+:: IP: 24.213.161.190 :: REFEFER: http://10christiansongs.com/home
+:: AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0) 
+:: PHP_SELF: /dkphp.php  
+:: URI: /themes/music/default/admin/js/excanvas.min.js 
+:: QUERY STRING 
+
+15-09-2011 21:43:47 --> ERROR 404 :: NO PAGE
+:: IP: 150.70.172.101 :: REFEFER: NO REFERER
+:: AGENT: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) 
+:: PHP_SELF: /dkphp.php  
+:: URI: /themes/music/default/admin/js/excanvas.min.js 
+:: QUERY STRING 
+
+16-09-2011 01:05:16 --> ERROR 404 :: NO PAGE
+:: IP: 87.230.74.45 :: REFEFER: NO REFERER
+:: AGENT:  
+:: PHP_SELF: /dkphp.php  
+:: URI: /din.aspx?s=00000000&id=0&client=DynGate&p=10000001 
+:: QUERY STRING s=00000000&id=0&client=DynGate&p=10000001
+
+16-09-2011 03:06:25 --> ERROR 404 :: NO PAGE
+:: IP: 87.230.74.45 :: REFEFER: NO REFERER
+:: AGENT:  
+:: PHP_SELF: /dkphp.php  
+:: URI: /din.aspx?s=00000000&id=0&client=DynGate&p=10000001 
+:: QUERY STRING s=00000000&id=0&client=DynGate&p=10000001
+
+16-09-2011 21:02:40 --> ERROR 404 :: NO PAGE
+:: IP: 67.53.105.26 :: REFEFER: http://10christiansong.com/lyrics/9306-virginia-is-for-lovers-mat-kearney
+:: AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 1.1.4322) 
+:: PHP_SELF: /dkphp.php  
+:: URI: /themes/music/default/admin/js/excanvas.min.js 
+:: QUERY STRING 
+
+17-09-2011 00:14:39 --> ERROR 404 :: NO PAGE
+:: IP: 87.230.74.47 :: REFEFER: NO REFERER
+:: AGENT:  
+:: PHP_SELF: /dkphp.php  
+:: URI: /din.aspx?s=00000000&id=0&client=DynGate&p=10000001 
+:: QUERY STRING s=00000000&id=0&client=DynGate&p=10000001
+
+17-09-2011 01:58:19 --> ERROR 404 :: NO PAGE
+:: IP: 178.77.120.2 :: REFEFER: NO REFERER
+:: AGENT:  
+:: PHP_SELF: /dkphp.php  
+:: URI: /din.aspx?s=00000000&id=0&client=DynGate&p=10000001 
+:: QUERY STRING s=00000000&id=0&client=DynGate&p=10000001
+
+17-09-2011 04:50:36 --> ERROR 404 :: NO PAGE
+:: IP: 178.77.120.2 :: REFEFER: NO REFERER
+:: AGENT:  
+:: PHP_SELF: /dkphp.php  
+:: URI: /din.aspx?s=00000000&id=0&client=DynGate&p=10000001 
+:: QUERY STRING s=00000000&id=0&client=DynGate&p=10000001
+
+17-09-2011 05:33:00 --> ERROR 404 :: NO PAGE
+:: IP: 178.77.120.2 :: REFEFER: NO REFERER
+:: AGENT:  
+:: PHP_SELF: /dkphp.php  
+:: URI: /din.aspx?s=00000000&id=0&client=DynGate&p=10000001 
+:: QUERY STRING s=00000000&id=0&client=DynGate&p=10000001
+
+17-09-2011 05:51:26 --> ERROR 404 :: NO PAGE
+:: IP: 178.77.120.2 :: REFEFER: NO REFERER
+:: AGENT:  
+:: PHP_SELF: /dkphp.php  
+:: URI: /din.aspx?s=00000000&id=0&client=DynGate&p=10000001 
+:: QUERY STRING s=00000000&id=0&client=DynGate&p=10000001
+
+18-09-2011 23:54:52 --> ERROR 404 :: NO PAGE
+:: IP: 127.0.0.1 :: REFEFER: NO REFERER
+:: AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.163 Safari/535.1 
+:: PHP_SELF: /dkphp.php  
+:: URI: /phpmad 
+:: QUERY STRING 
+
+18-09-2011 23:54:52 --> ERROR 404 :: NO PAGE
+:: IP: 127.0.0.1 :: REFEFER: NO REFERER
+:: AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.163 Safari/535.1 
+:: PHP_SELF: /dkphp.php  
+:: URI: /phpm 
+:: QUERY STRING 
+
+18-09-2011 23:54:53 --> ERROR 404 :: NO PAGE
+:: IP: 127.0.0.1 :: REFEFER: NO REFERER
+:: AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.163 Safari/535.1 
+:: PHP_SELF: /dkphp.php  
+:: URI: /phpmm 
+:: QUERY STRING 
+
+18-09-2011 23:54:53 --> ERROR 404 :: NO PAGE
+:: IP: 127.0.0.1 :: REFEFER: NO REFERER
+:: AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.163 Safari/535.1 
+:: PHP_SELF: /dkphp.php  
+:: URI: /phpm 
+:: QUERY STRING 
+
+18-09-2011 23:55:27 --> ERROR 404 :: NO PAGE
+:: IP: 66.249.71.236 :: REFEFER: NO REFERER
+:: AGENT: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) 
+:: PHP_SELF: /dkphp.php  
+:: URI: /nzaucfdgvc.html 
+:: QUERY STRING 
+
+19-09-2011 02:22:45 --> ERROR 404 :: NO PAGE
+:: IP: 66.249.71.238 :: REFEFER: NO REFERER
+:: AGENT: Googlebot-Image/1.0 
+:: PHP_SELF: /dkphp.php  
+:: URI: /themes/player/no-text-5194335274481921191 
+:: QUERY STRING 
+
+19-09-2011 03:34:40 --> ERROR 404 :: NO PAGE
+:: IP: 87.230.74.47 :: REFEFER: NO REFERER
+:: AGENT:  
+:: PHP_SELF: /dkphp.php  
+:: URI: /din.aspx?s=00000000&id=0&client=DynGate&p=10000001 
+:: QUERY STRING s=00000000&id=0&client=DynGate&p=10000001
+
+19-09-2011 06:20:28 --> ERROR 404 :: NO PAGE
+:: IP: 178.77.120.2 :: REFEFER: NO REFERER
+:: AGENT:  
+:: PHP_SELF: /dkphp.php  
+:: URI: /din.aspx?s=00000000&id=0&client=DynGate&p=10000001 
+:: QUERY STRING s=00000000&id=0&client=DynGate&p=10000001
+
+19-09-2011 08:12:50 --> SQL ERROR :: SELECT news_key, news_title, CONVERT(CHAR(10),news_date,101) as news_date  FROM msc_news WHERE 1 ORDER BY news_key DESC LIMIT 30 -- You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'news_date,101) as news_date  FROM msc_news WHERE 1 ORDER BY news_key DESC LIMIT ' at line 1
+:: IP: 98.154.206.193 :: REFEFER: http://khoaofgod.dyndns.org/admin/news/?action=post
+:: AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.163 Safari/535.1 
+:: PHP_SELF: /dkphp.php  
+:: URI: /admin/news 
+:: QUERY STRING 
+
+19-09-2011 08:12:50 --> SQL ERROR :: SELECT news_key, news_title, CONVERT(CHAR(10),news_date,101) as news_date  FROM msc_news WHERE 1 ORDER BY news_key DESC LIMIT 30 -- You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'news_date,101) as news_date  FROM msc_news WHERE 1 ORDER BY news_key DESC LIMIT ' at line 1
+:: IP: 98.154.206.193 :: REFEFER: http://khoaofgod.dyndns.org/admin/news/?action=post
+:: AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.163 Safari/535.1 
+:: PHP_SELF: /dkphp.php  
+:: URI: /admin/news 
+:: QUERY STRING 
+

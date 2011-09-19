@@ -1,0 +1,41 @@
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule . /dkphp.php [L]
+
+Options -Indexes -FollowSymlinks +SymLinksIfOwnerMatch
+
+
+<Files ~ "^\.([Hh][Tt]|[Dd][Ss]_[Ss]|[_])">
+ Order allow,deny
+ Deny from all
+ Satisfy All
+</Files>
+
+# deny access to all .log and .comment files
+<Files ~ "^.*\.([Ll][Oo][Gg]|[cC][oO][mM][mM][eE][nN][tT])">
+ Order allow,deny
+ Deny from all
+ Satisfy All
+</Files>
+
+
+<Files ~ "^.*\.([php][php3][php5]|[phps][php2][php6][xphp][phpx][asp][shtml][html][htm][phtm])">
+ Order allow,deny
+ Deny from all
+ Satisfy All
+</Files>
+
+# Just Allow index.php
+<Files ~ "^(dkphp).php">
+ Order allow,deny
+ Allow from all
+ Satisfy All
+</Files>
+
+
+
+DirectoryIndex dkphp.php index.html
